@@ -19,6 +19,7 @@ Awesome Pathology Image papers&amp;code&amp;datasets&amp;.. collection
 | LNPL-MIL: Learning from Noisy Pseudo Labels for Promoting Multiple Instance Learning in Whole Slide Image | ICCV 2023 |                                | [PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Shao_LNPL-MIL_Learning_from_Noisy_Pseudo_Labels_for_Promoting_Multiple_Instance_ICCV_2023_paper.pdf) |                           [CODE]()                           |
 | ConSlide: Asynchronous Hierarchical Interaction Transformer with Breakup-Reorganize Rehearsal for Continual Whole Slide Image Analysis | ICCV 2023 |              TCGA              |         [PDF](https://arxiv.org/pdf/2308.13324.pdf)          |        [CODE](https://github.com/HKU-MedAI/ConSlide)         |
 | Boosting Whole Slide Image Classification from the Perspectives of Distribution, Correlation and Magnification | ICCV 2023 |        Camelyon-16,TCGA        | [PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Qu_Boosting_Whole_Slide_Image_Classification_from_the_Perspectives_of_Distribution_ICCV_2023_paper.pdf) |        [CODE](https://github.com/miccaiif/MILBooster)        |
+| Self-Supervised Extreme Compression of Gigapixel Images      | ICLR 2023 |                                | [PDF](https://openreview.net/attachment?id=oBbsPbMsY3&name=pdf) |                           [CODE]()                           |
 
 ### 2022
 
